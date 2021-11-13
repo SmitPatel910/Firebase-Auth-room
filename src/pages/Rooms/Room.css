@@ -1,0 +1,12 @@
+.className{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: 100vh;
+}
+
+img{
+    max-height: 500px;
+}

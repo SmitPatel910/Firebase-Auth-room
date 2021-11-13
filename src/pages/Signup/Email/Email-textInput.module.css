@@ -1,0 +1,63 @@
+.input{
+    background: #323232;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    width: 200px;
+    color: #fff;
+    font-size: 18px;
+    outline: none;
+}
+.mainstyle{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.text{
+    font-size: 22px;
+    line-height: 1.6;
+    color: #c4c5c5;
+    text-align: center;
+}
+
+.signin{
+    margin-top: 20px;
+
+}
+
+.hasInvite{
+    color: #0077FF;
+    user-select: none;
+}
+
+.signinLink{
+    color: #0077FF;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.signinLink:hover{
+    color: #014a9c;
+}
+
+.signins{
+    margin-top: 20px;
+}
+
+.hasInvites{
+    color: #0077FF;
+    user-select: none;
+}
+
+.signinLinks{
+    color: #0077FF;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.signinLinks:hover{
+    color: #014a9c;
+}

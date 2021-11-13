@@ -1,0 +1,32 @@
+.mainstyle{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.text{
+    font-size: 22px;
+    line-height: 1.6;
+    color: #c4c5c5;
+    text-align: center;
+}
+
+.signin{
+    margin-top: 20px;
+}
+
+.hasInvite{
+    color: #0077FF;
+    user-select: none;
+}
+
+.signinLink{
+    color: #0077FF;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.signinLink:hover{
+    color: #014a9c;
+}
